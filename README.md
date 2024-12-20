@@ -1,7 +1,8 @@
-# HAGA : Poems to GIF
+# Dreaming in Verse : Poem to GIF
 
 <div align="center">
-  <img src="./gif.gif" width="300px" alt="HAGA Example">
+  <img src="./gif.gif" width="300px" alt="Dreaming in Verse Example">
+  <p><em>Figure 1: "Poetry gives life again" -An example of a generated GIF from the Dreaming in Verse project.</em></p>
 </div>
 
 This repository provides a workflow for generating visual art from textual poems and inspiration images, ultimately composing them into animated GIFs. By combining the poetic language of written verse with guiding "inspiration images," this project leverages neural text-to-image generation to produce a series of images and then transforms these sequences into a final animated piece.
