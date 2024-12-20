@@ -1,6 +1,8 @@
 # HAGA : Poems to GIF
-![HAGA Example](./gif.gif)
 
+<div align="center">
+  <img src="./gif.gif" width="300px" alt="HAGA Example">
+</div>
 
 This repository provides a workflow for generating visual art from textual poems and inspiration images, ultimately composing them into animated GIFs. By combining the poetic language of written verse with guiding "inspiration images," this project leverages neural text-to-image generation to produce a series of images and then transforms these sequences into a final animated piece.
 
